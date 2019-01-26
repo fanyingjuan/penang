@@ -18,6 +18,11 @@ h2{
   display:block;
   margin-left: auto;
   margin-right:auto;
-  width:50%
+  width:50%;
   
+}
+
+#title1{
+  width:50%;
+    height:50%;
 }
